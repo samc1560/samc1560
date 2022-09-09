@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Samuel Crawford
+My name is Samuel Crawford, I'm a senior Economics major at Clemson University who's really trying to figure out this Python thing
 <!--
 **samc1560/samc1560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
